@@ -1,0 +1,15 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(96, 245, 96);
+}
+
+#wi{
+    width: 300px;
+    padding: 50px;
+	margin: 50px;
+}
